@@ -1,0 +1,8 @@
+01 - Criar o diretorio Mario na pasta pset1
+02 - Criar um arquivo chamado mario.c
+03 - inciar o codigo colocando #include <stdio.h> e #include <cs50.h>
+04 - Colocar o Int main (void)
+05 - Criar uma variavel onde pergunta ao usuario o valor entre 1 ou 8
+06 - criar um loop onde se a entrada for menor ou maior que 1 ou 8 vai continuar solicitando uma entrada
+07 - Se o usuario colocar o valor entre  1 ou 8 então mostrar a piramide
+08 - Se o usuario colocar um valor invalido, solicitar novamente a entrada
